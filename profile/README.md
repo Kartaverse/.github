@@ -8,7 +8,7 @@ Kartaverse makes it a breeze to accessibly and affordably create content for use
 
 # Installation
 
-Kartaverse is an open-source (GNU LGPL/GPL v3) toolset. It is distributed through the WSL [Reactor package manager](https://www.steakunderwater.com/wesuckless/viewtopic.php?f=32&t=3067) for Resolve/Fusion. Install the Reactor package manager, and then select the Kartaverse/KartaVR category on the left side of the Reactor GUI. Then select and install the "KartaVR" and "KartaVR 3rd Party Libraries" packages.
+Kartaverse is an open-source (GNU LGPL/GPL v3) toolset. It is distributed through the WSL [Reactor package manager](https://www.steakunderwater.com/wesuckless/viewtopic.php?f=32&t=3067) for Resolve/Fusion. Install the Reactor package manager, and select the "Kartaverse/KartaVR" category on the left side of the Reactor GUI to access the latest DCTL Fuse based tools. Then select and install the "KartaVR" and "KartaVR 3rd Party Libraries" packages if you would like to use the KartaVR scripts and macros.
 
 # For More Information
 
