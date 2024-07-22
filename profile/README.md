@@ -18,6 +18,10 @@ Kartaverse/KartaVR can be used on personal and commercial projects at no cost. I
 
 The [KartaVR documentation](https://kartaverse.github.io/Kartaverse-Docs/#/) is hosted on GitHub.io.
 
+## Spatial Metadata GUI
+
+The KartaLink [Spatial Metadata](https://kartaverse.github.io/Kartaverse-Docs/#/) tools allow you to prepare immersive content for playback on Apple Vision Pro and Meta Quest HMDs.
+
 ## Kartaverse Pano Tools Data Nodes
 
 [Kartaverse PT](https://kartaverse.github.io/PT-Data-Nodes-Docs/) is a new set of data nodes that allow live-link access in Fusion to PTGui Pro .pts project files. This is the start of a new way to work with panoramic data in Fusion.
