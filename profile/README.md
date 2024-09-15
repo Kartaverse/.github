@@ -14,29 +14,25 @@ Kartaverse/KartaVR can be used on personal and commercial projects at no cost. I
 
 # For More Information
 
-## KartaVR
+## KartaVR for BMD Resolve/Fusion
 
-The [KartaVR documentation](https://kartaverse.github.io/Kartaverse-Docs/#/) is hosted on GitHub.io.
+The [KartaVR documentation](https://kartaverse.github.io/Kartaverse-Docs/#/) is hosted on GitHub.io. Check out the [video tutorials here](https://kartaverse.github.io/Kartaverse-Docs/#/tutorials).
 
 ## Spatial Metadata GUI
 
-The KartaLink [Spatial Metadata](https://kartaverse.github.io/Kartaverse-Docs/#/) tools allow you to prepare immersive content for playback on Apple Vision Pro and Meta Quest HMDs.
+The [Spatial Metadata GUI](https://github.com/Kartaverse/Spatial-Metadata) allows you to prepare MV-HEVC encoded immersive content for playback on Apple Vision Pro and Meta Quest HMDs.
 
-## Kartaverse Pano Tools Data Nodes
+## Panotools Data Nodes for BMD Resolve/Fusion
 
-[Kartaverse PT](https://kartaverse.github.io/PT-Data-Nodes-Docs/) is a new set of data nodes that allow live-link access in Fusion to PTGui Pro .pts project files. This is the start of a new way to work with panoramic data in Fusion.
+[Kartaverse PT](https://kartaverse.github.io/PT-Data-Nodes-Docs/) is a new set of data nodes that allow live-link access in BMD Resolve/Fusion to PTGui Pro .pts project files. This is the start of a new way to work with panoramic data in Fusion.
 
 ## Vonk Ultra Data Nodes
 
-The [Vonk Ultra documentation](https://docs.google.com/document/d/1U9WfdHlE1AZHdU6_ZQCB1I2nSa5I7TyHG2vKMi2I7v8/edit?usp=sharing) is accessible on Google Docs. Vonk is a collection of data nodes based tools that help technical artists take their workflows to the next level.
+Vonk is a collection of BMD Resolve/Fusion data node based tools that help technical artists take their workflows to the next level. The [Vonk Ultra documentation](https://docs.google.com/document/d/1U9WfdHlE1AZHdU6_ZQCB1I2nSa5I7TyHG2vKMi2I7v8/edit?usp=sharing) is accessible on Google Docs.
 
-# Kartaverse 6 New Features (In Development Now)
+## Kartaverse for Houdini
 
-## Valkyrie Engine (WIP)
-[Kartaverse Valkyrie Engine](https://kartaverse.github.io/ValkyrieEngine) is a free open-source "cinematic XR" solution for the rest of us. It is a hybrid volumetric renderer for pixel-streaming XR experiences without limits.
-
-## RiveLink Data Nodes (WIP)
-The [Kartaverse RiveLink](https://kartaverse.github.io/RiveLink/) data nodes create XR motion graphics that are powered by a "Rive.app" integration plugin.
+[Kartaverse for Houdini](https://kartaverse.github.io/Kartaverse-for-Houdini) is a port of the Kartaverse open-source XR pipeline tools for SideFX Houdini.
 
 # Kartaverse Learning Resources
 
