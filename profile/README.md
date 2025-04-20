@@ -40,7 +40,17 @@ Vonk Ultra is a collection of data nodes for Blackmagic Design Resolve/Fusion. V
 
 # Kartaverse Learning Resources
 
+## Immersive Pipeline Integration Guide
+
 A "[Kartaverse Workflows | Immersive Pipeline Integration Guide](https://docs.google.com/document/d/1tewIaHZh8mWI8x5BzlpZBkF8eXhK2b_XhTWiU_93HBA)" learning resource is available. The free guide has over 512 pages of content that covers the primary steps required to get a working content creation pipeline established from scratch for artists working at a freelancer, or small boutique studio scale of operation. Additional, expanded chapters cover broader Resolve/Fusion page usage concepts that will help you take your composting and 360VR content creation skills to the next level.
+
+## Reactor Package Manager Online
+
+An [online web accessible version](https://kartaverse.github.io/Reactor-Docs/#/reactor) of the Reactor Package Manager content is available. 
+
+Reactor is a package manager for Fusion and Resolve. Reactor streamlines the installation of 3rd party content through the use of "Atom" packages that are synced automatically with a Git repository. The Fusion community developed the Reactor software as a group effort to create a single-stop resource that hosts the largest collection of curated content for extending the capabilities of Resolve/Fusion. Reactor also includes a lot of content that was previously available only on the VFXPedia resource.
+
+Note: If you are running Resolve Free, keep in mind Resolve Free v19.0.3 is the final version of Resolve that is compatible with Reactor. Resolve Free v19.1 removed scripting access for GUIs like Reactor.
 
 # Social Media
 
