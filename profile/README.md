@@ -38,7 +38,7 @@ Vonk Ultra is a collection of data nodes for Blackmagic Design Resolve/Fusion. V
 
 [Kartaverse PT](https://kartaverse.github.io/PT-Data-Nodes-Docs/) is a new set of data nodes that allow live-link access in BMD Resolve/Fusion to PTGui Pro .pts project files. This is the start of a new way to work with panoramic data in Fusion.
 
-## Kartascript
+## Kartascript for Python
 
 [Kartascript](https://github.com/Kartaverse/Kartascript) is a Python module for immersive post-production workflow automation. It provides PTGui .pts JSON file parsing tools.
 
