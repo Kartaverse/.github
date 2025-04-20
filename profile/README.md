@@ -28,7 +28,11 @@ The [Spatial Metadata GUI](https://github.com/Kartaverse/Spatial-Metadata) allow
 
 ## Vonk Ultra Data Nodes
 
-Vonk is a collection of BMD Resolve/Fusion data node based tools that help technical artists take their workflows to the next level.
+[Vonk Ultra](https://kartaverse.github.io/VonkUltra/) provides a new era of no-code creativity inside of Blackmagic Resolve Studio/Fusion Studio. Data nodes allow you to connect text, JSON, arrays, and matrices to create stunning generative visuals.
+
+The new vMograph tools are the next generation of Vonk Ultra technology that help power dynamic motion graphics. Create data driven graphics with the help of a large collection of modifier nodes, and a fuse-based 2D and 3D vector rendering engine.
+
+Vonk Ultra is a collection of data nodes for Blackmagic Design Resolve/Fusion. Vonk can be thought of as node-based modifiers that live in the flow. These node-based operations provide a no-code alternative to using expressions or custom scripts.
 
 ## Kartaverse for Houdini
 
