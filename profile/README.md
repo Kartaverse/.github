@@ -14,13 +14,12 @@ Kartaverse/KartaVR can be used on personal and commercial projects at no cost. I
 
 # For More Information
 
-## KartaVR for BMD Resolve Studio/Fusion Studio
-
-The [KartaVR documentation](https://kartaverse.github.io/Kartaverse-Docs/#/) is hosted on GitHub.io. Check out the [video tutorials here](https://kartaverse.github.io/Kartaverse-Docs/#/tutorials).
-
 ## Spatial Metadata GUI
 
 The [Spatial Metadata GUI](https://github.com/Kartaverse/Spatial-Metadata) allows you to prepare MV-HEVC encoded immersive content for playback on Apple Vision Pro and Meta Quest HMDs.
+## KartaVR for BMD Resolve Studio/Fusion Studio
+
+The [KartaVR documentation](https://kartaverse.github.io/Kartaverse-Docs/#/) is hosted on GitHub.io. Check out the [video tutorials here](https://kartaverse.github.io/Kartaverse-Docs/#/tutorials).
 
 ## Kartaverse for Houdini
 
