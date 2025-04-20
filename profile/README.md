@@ -4,7 +4,7 @@ This is an academic research project exploring computational imaging techniques.
 
 "Karta" is the Swedish word for map. With KartaVR you can stitch, composite, retouch, and remap any kind of panoramic video: from any projection to any projection. This provides the essential tools for 360VR, panoramic video stitching, depthmap, lightfield, and fulldome image editing workflows. 
 
-Kartaverse makes it a breeze to accessibly and affordably create content for use with virtual reality HMDs (head mounted displays) and fulldome theatres by providing ready to go scripts, templates, plugins, and command-line tools that allow you to work efficiently with XR media. The toolset works inside of Blackmagic Design's powerful node based [Fusion Studio](https://www.blackmagicdesign.com/products/fusion) and [DaVinci Resolve Studio](https://www.blackmagicdesign.com/products/davinciresolve/) software. Note: Resolve (free) v19.1 is no longer supported.
+Kartaverse makes it a breeze to accessibly and affordably create content for use with virtual reality HMDs (head mounted displays) and fulldome theatres by providing ready to go scripts, templates, plugins, and command-line tools that allow you to work efficiently with XR media. The toolset works inside of Blackmagic Design's powerful node based [Fusion Studio](https://www.blackmagicdesign.com/products/fusion) and [DaVinci Resolve Studio](https://www.blackmagicdesign.com/products/davinciresolve/) software. Note: Resolve (Free) v19.0.3 supported.
 
 # Installation
 
@@ -14,7 +14,7 @@ Kartaverse/KartaVR can be used on personal and commercial projects at no cost. I
 
 # For More Information
 
-## KartaVR for BMD Resolve/Fusion
+## KartaVR for BMD Resolve Studio/Fusion Studio
 
 The [KartaVR documentation](https://kartaverse.github.io/Kartaverse-Docs/#/) is hosted on GitHub.io. Check out the [video tutorials here](https://kartaverse.github.io/Kartaverse-Docs/#/tutorials).
 
@@ -22,9 +22,9 @@ The [KartaVR documentation](https://kartaverse.github.io/Kartaverse-Docs/#/) is 
 
 The [Spatial Metadata GUI](https://github.com/Kartaverse/Spatial-Metadata) allows you to prepare MV-HEVC encoded immersive content for playback on Apple Vision Pro and Meta Quest HMDs.
 
-## Panotools Data Nodes for BMD Resolve/Fusion
+## Kartaverse for Houdini
 
-[Kartaverse PT](https://kartaverse.github.io/PT-Data-Nodes-Docs/) is a new set of data nodes that allow live-link access in BMD Resolve/Fusion to PTGui Pro .pts project files. This is the start of a new way to work with panoramic data in Fusion.
+[Kartaverse for Houdini](https://kartaverse.github.io/Kartaverse-for-Houdini) is a port of the Kartaverse open-source XR pipeline tools for SideFX Houdini.
 
 ## Vonk Ultra Data Nodes
 
@@ -34,9 +34,9 @@ The new vMograph tools are the next generation of Vonk Ultra technology that hel
 
 Vonk Ultra is a collection of data nodes for Blackmagic Design Resolve/Fusion. Vonk can be thought of as node-based modifiers that live in the flow. These node-based operations provide a no-code alternative to using expressions or custom scripts.
 
-## Kartaverse for Houdini
+## Panotools Data Nodes for BMD Resolve/Fusion
 
-[Kartaverse for Houdini](https://kartaverse.github.io/Kartaverse-for-Houdini) is a port of the Kartaverse open-source XR pipeline tools for SideFX Houdini.
+[Kartaverse PT](https://kartaverse.github.io/PT-Data-Nodes-Docs/) is a new set of data nodes that allow live-link access in BMD Resolve/Fusion to PTGui Pro .pts project files. This is the start of a new way to work with panoramic data in Fusion.
 
 # Kartaverse Learning Resources
 
@@ -44,15 +44,23 @@ A "[Kartaverse Workflows | Immersive Pipeline Integration Guide](https://docs.go
 
 # Social Media
 
+## GitHub Repos
+
+The [Kartaverse repositories](https://github.com/Kartaverse) are available on GitHub.
+
 ## Facebook Group
 
 Check out the [KartaVR Facebook Group](https://www.facebook.com/groups/kartavr) if you want to read the latest Kartaverse news, or talk directly with other  users.
 
-## Kartaverse Blog
+## Reddit Group
+
+Check out the [r/Kartaverse Reddit](https://www.reddit.com/r/Kartaverse/). This Reddit community is where you can ask technical questions about immersive media post-production, and get answers to all things KartaVR, Vonk Ultra, and XR related.
+
+## Medium Blog
 
 The [Kartaverse Blog](https://medium.com/@andrewhazelden) is hosted on Medium.
 
-## Kartaverse Technical Support
+## Google Group
 
-Technical support for Kartaverse is handled by the official [Kartaverse Google Group](https://groups.google.com/g/kartaverse/). If you've got a question about 360VR and immersive workflows in Resolve and Fusion Standalone, the Kartaverse User Group is the place to get it answered.
+Technical support for Kartaverse is typically handled by the [Kartaverse Google Group](https://groups.google.com/g/kartaverse/). If you've got a usage question about 360VR and immersive workflows in Resolve and Fusion Standalone, the Kartaverse Google Group is the place to get it answered.
 
