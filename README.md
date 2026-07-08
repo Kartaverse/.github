@@ -1,14 +1,16 @@
-# Kartaverse - End of Support
+# KartaVR - End of Support
 
-As life happens, I need to move on and pause active development of KartaVR/Kartaverse. It was a nice project and had a surprisingly good adoption rate since my original "Domemaster Fusion Macros" were released in 2014.
+As life happens, I need to move on and pause active development of KartaVR. It was a nice immersive project and had a surprisingly good adoption rate since my original "Domemaster Fusion Macros" were released in 2014.
 
 Since the toolset still includes some unique functionality that no one else provides, KartaVR can still be downloaded and installed using the Reactor Package Manager.
 
-At this point in time there are no plans to add additional functionality, or provide future updates or technical support for Kartaverse.
+At this point in time there are no plans to add additional functionality, or provide future updates or technical support for KartaVR.
 
 Cheers,  
 Andrew Hazelden  
 2026-01-23  
+
+P.S. Development is still carrying on for Vonk Ultra's node based toolset, with new features being added by Dunn Lewis on the Vonk Mograph fuses.
 
 # About Kartaverse
 
