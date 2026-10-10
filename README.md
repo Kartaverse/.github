@@ -12,7 +12,7 @@ Cheers,
 Andrew Hazelden  
 2026-01-23  
 
-P.S. Development is still carrying on for Vonk Ultra's node based toolset, with new features being added by Dunn Lewis on the Vonk Mograph fuses.
+P.S. Development is still carrying on for [Vonk Ultra's node based toolset](https://lightfielder.github.io/Lightfielder-DaVinci-Resolve/VonkUltra/), with new features being added by Dunn Lewis on the [Vonk vMograph and OGraf fuses](https://www.youtube.com/playlist?list=PLVDcRvd92hcgumsGnIth-hDi3gvVTc71u).
 
 # About Kartaverse
 
