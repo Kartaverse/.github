@@ -6,7 +6,7 @@ Since the toolset still includes some unique functionality that no one else prov
 
 At this point in time there are no plans to add additional functionality, or provide future updates or technical support for KartaVR. 
 
-Note: All development effort is going into "Lightfielder for DaVinci Resolve". It is a new multi-view volumetric video production pipeline toolset. This R&D project is the direct spiritual successor to Kartaverse. The Lightfielder software stack is designed to bring the same level of open-source (LGPL licensed) creative tools to play, this time to help filmmakers explore the nascent frontiers of the [lightfield aka plenoptic](https://en.wikipedia.org/wiki/Light_field_camera?#Prototypes) imaging domain.
+**Note:** All development effort is going into "[Lightfielder for DaVinci Resolve](https://lightfielder.github.io/Lightfielder-DaVinci-Resolve/)". It is a new multi-view volumetric video production pipeline toolset. This R&D project is the direct spiritual successor to Kartaverse. The Lightfielder software stack is designed to bring the same level of open-source (LGPL licensed) creative tools to play, this time to help filmmakers explore the nascent frontiers of the [lightfield aka plenoptic](https://en.wikipedia.org/wiki/Light_field_camera?#Prototypes) imaging domain.
 
 Cheers,  
 Andrew Hazelden  
