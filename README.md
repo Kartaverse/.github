@@ -10,7 +10,7 @@ Cheers,
 Andrew Hazelden  
 2026-01-23  
 
-**Note:** All effort is going into "[Lightfielder for DaVinci Resolve](https://lightfielder.github.io/Lightfielder-DaVinci-Resolve/)". It is a new multi-view volumetric video production pipeline toolset. This R&D project is the direct spiritual successor to Kartaverse. The Lightfielder software stack is designed to bring the same level of open-source (LGPL licensed) creative tools to play, this time to help filmmakers explore the nascent frontiers of the "plenoptic imagaing" aka [lightfield](https://en.wikipedia.org/wiki/Light_field_camera?#Prototypes) imaging domain.
+**Note:** All effort is going into "[Lightfielder for DaVinci Resolve](https://lightfielder.github.io/Lightfielder-DaVinci-Resolve/)", a new multi-view volumetric video production pipeline toolset. This R&D project is the direct spiritual successor to Kartaverse. The Lightfielder software stack is designed to bring the same level of open-source (LGPL licensed) creative tools to play, this time to help filmmakers explore the nascent frontiers of the "plenoptic imagaing" aka [lightfield](https://en.wikipedia.org/wiki/Light_field_camera?#Prototypes) imaging domain.
 
 P.S. Development is still carrying on for [Vonk Ultra's node based toolset](https://lightfielder.github.io/Lightfielder-DaVinci-Resolve/VonkUltra/), with new features being added by Dunn Lewis on the [Vonk vMograph and OGraf fuses](https://www.youtube.com/playlist?list=PLVDcRvd92hcgumsGnIth-hDi3gvVTc71u).
 
