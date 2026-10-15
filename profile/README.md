@@ -82,8 +82,7 @@ Kartaverse publishes an [open-source database for XR stage displays](https://kar
 
 ## GitHub Repos
 
-The [Kartaverse repositories](https://github.com/Kartaverse) are available on GitHub.
-The [Lightfielder repositories](https://github.com/Lightfielder) are available on GitHub.
+The [Lightfielder](https://github.com/Lightfielder) and [Kartaverse repositories](https://github.com/Kartaverse) are available on GitHub.
 
 ## Medium Blog
 
